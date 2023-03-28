@@ -1,6 +1,7 @@
 Question Link - https://leetcode.com/problems/single-number/description/
 Leetcode Solution - 
 
+
 class Solution {
 public:
     int singleNumber(vector<int>& nums) {
